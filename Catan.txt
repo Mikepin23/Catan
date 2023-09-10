@@ -1,0 +1,7 @@
+Gameboard:
+
+- Hexagonal tiles (19) (3-4-5-4-3)
+- Segments (6 per tile)
+- Nodes (6 per tile)
+
+
